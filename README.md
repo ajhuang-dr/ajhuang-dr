@@ -1,0 +1,3 @@
+Retired engineer actively doing systems work for small not-for-profit organization
+Previous lives in firmware with network focus, academia, parallel computation, early internet (co-author IEN 140)
+Current work spans way more technologies than I'm able to keep straight: python, django, Javascript, SQL, CSS, Apache,...
